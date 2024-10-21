@@ -20,8 +20,6 @@ Tasks:-
 
 • Save Data in CSV Format: Store the cleaned data in a structured CSV file.
 
-• Documentation: Create documentation detailing the scraping process and instructions for use.
-
 Conclusion:-
 
 This project successfully demonstrates the capability of web scraping techniques to extract valuable data from websites. The collected data, saved in CSV format, is ready for further analysis and supports informed decision-making.
