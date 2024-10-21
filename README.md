@@ -30,4 +30,6 @@ Technology Used:-
 
 • Beautiful Soup /requests
 
+• Pandas
+
 • CSV
